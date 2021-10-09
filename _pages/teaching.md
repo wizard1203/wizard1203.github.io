@@ -1,13 +1,25 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
-redirect_from:
-  - /resume
+redirect_from: 
+  - /teaching/
+  - /teaching.html
 ---
 
+
+## Test Test
+
+TTTTTTTTTTTTT
+
+
+
 {% include base_path %}
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 <!-- Education
 ======
@@ -58,3 +70,6 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
  -->
+
+
+

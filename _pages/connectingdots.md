@@ -1,11 +1,19 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Connecting Dots"
+permalink: /connectingdots/
 author_profile: true
 redirect_from:
-  - /resume
+  - /connectingdots/
+  - /connectingdots.html
 ---
+
+  
+## Test Test
+
+TTTTTTTTTTTTT
+
+
 
 {% include base_path %}
 
@@ -58,3 +66,7 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
  -->
+
+
+
+ 
