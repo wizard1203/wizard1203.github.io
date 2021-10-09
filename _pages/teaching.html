@@ -1,0 +1,24 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
+
+<h2>Hong Kong Baptist University, Teaching Assistant</h2>
+
+<hr />
+<ul>
+<li>2021/22, COMP 7015, Artificial Intelligence</li>
+<li>2020/21, COMP 7930, Big Data Analytics</li>
+</ul>
+<hr />
+
+
+{% include base_path %}
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
