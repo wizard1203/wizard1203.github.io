@@ -6,9 +6,6 @@ author_profile: true
 ---
 
 
-Test Test
-
-
 # Hong Kong Baptist University, Teaching Assistant
 * 2021/22, COMP 7015, Artificial Intelligence
 * 2020/21, COMP 7930, Big Data Analytics
