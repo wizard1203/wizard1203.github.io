@@ -22,6 +22,7 @@ News
 ======
 
 [December 2022] Invited to serve as a reviewer for KDD 2023 and ICML 2023.
+
 [December 2022] Our paper "GossipFL: A Decentralized Federated Learning Framework with Sparsified and Adaptive Communication" has been accepted by *IEEE TPDS*. [paper](https://ieeexplore.ieee.org/document/9996127)
 
 

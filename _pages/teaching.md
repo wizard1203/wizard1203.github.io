@@ -6,9 +6,12 @@ author_profile: true
 ---
 
 
-# Hong Kong Baptist University, Teaching Assistant
-* 2021/22, COMP 7015, Artificial Intelligence
-* 2020/21, COMP 7930, Big Data Analytics
+- Teaching Assistant at HKBU
+    - 2023 Spring Semester, COMP7940 Cloud Computing
+    - 2022 Fall Semester, COMP7015 Artiﬁcial Intelligence 
+    - 2022 Spring Semester, COMP 7550 IT Project Management
+    - 2021 Fall Semester, COMP 7015, Artificial Intelligence
+    - 2021 Spring Semester, COMP 7930, Big Data Analytics
 
 
 
