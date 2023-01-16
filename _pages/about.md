@@ -30,7 +30,7 @@ News
 
 [October 2022] Invited to serve as a reviewer for ICLR 2022.
 
-[August 2022] Invited to serve as a reviewer for ICLR 2022.
+[August 2022] Invited to serve as a reviewer for AAAI 2023.
 
 [May 2022] Our paper "Virtual Homogeneity Learning: Defending against Data Heterogeneity in Federated Learning" is accepted at ICML 2022. [paper](https://proceedings.mlr.press/v162/tang22d.html)
 
