@@ -8,18 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm currently a Computer Science PhD student in [Hong Kong Baptist University](https://www.hkbu.edu.hk) under the supervision of [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen) in 2020. Before HKBU, I got my Bachelor degree in HUST.
-
-My current research interests includes:
+Hi! I'm currently a Computer Science PhD candidate in [Hong Kong Baptist University](https://www.hkbu.edu.hk) under the supervision of [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen) in 2020. Before HKBU, I got my Bachelor degree of HUST.
 
 
-* Federated Learning
-* Distributed Deep Learning
-* Accelerate Training and Inference of DNNs
+**Research Philosophy**
+
+Democratizing Machine learning needs super high efficiency, scalability, robustness and privacy. Achieving them needs to understand ML and systems first. Hope we can make a ML system to enable learning at anywhere and anytime.
+
+**Current focuses**: Federated Learning, Distributed Deep Learning, Accelerate Training and Inference of DNNs
+
 
 
 News
 ======
+
+[April 2023] Invited to serve as a reviewer for KDD 2023 and NeurIPS 2023.
 
 [December 2022] Invited to serve as a reviewer for KDD 2023 and ICML 2023.
 
@@ -42,9 +45,11 @@ News
 [October 2020] Our survey paper "A Quantitative Survey of Communication Optimizations in Distributed Deep Learning" \[[code](https://github.com/HKBU-HPML/ddl-benchmarks), [paper](https://arxiv.org/abs/2005.13247)\] has been accepted by *IEEE Network Magazine*.
 
 
-Work Experience 
+Work & Research Experience 
 ======
-- 10/2018-09/2020: Research Assistant, Hong Kong Baptist University.
+- 03/2023-05/2022: Visiting Student, National University of Singapore, advised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/)
+- 06/2022-10/2022: Research Intern, [FedML Inc](https://www.fedml.ai/), advised by [Dr. Chaoyang He](https://chaoyanghe.com/)
+- 10/2018-09/2020: Research Assistant, Hong Kong Baptist University, advised by [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen)
 
 
 Teaching
@@ -59,7 +64,7 @@ Teaching
 Professional Activities
 ======
 - Invited Program Committee Member (Reviewer):
-    - Machine Learning: KDD '23, ICML '22, NeurIPS '22, ICLR '23, AAAI '23, AISTATS '23, UAI '22, IJCAI-ECAI '22
+    - Machine Learning: KDD '23, ICML '22, NeurIPS '22 '23, ICLR '23, AAAI '23, AISTATS '23, UAI '22, IJCAI-ECAI '22
     - Systems: HPCC '21, ICDCS '22, ICPADS '22
 
 - Invited Reviewer for Journals
