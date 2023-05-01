@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm currently a Computer Science PhD candidate in [Hong Kong Baptist University](https://www.hkbu.edu.hk) under the supervision of [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen) in 2020. Before HKBU, I got my Bachelor degree of HUST.
+Hi! I'm currently a Computer Science PhD candidate in [Hong Kong Baptist University](https://www.hkbu.edu.hk) under the supervision of [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen) in 2020, and co-supervised by [Prof. Bo Han](https://bhanml.github.io/). Before HKBU, I got my Bachelor degree of HUST.
 
 
 **Research Philosophy**
@@ -23,6 +23,8 @@ News
 ======
 
 [April 2023] Invited to serve as a reviewer for KDD 2023 and NeurIPS 2023.
+
+[February 2023] Our paper "FedML Parrot: A Scalable Federated Learning System via Heterogeneity-aware Scheduling on Sequential and Hierarchical Training" is available. [paper](https://arxiv.org/pdf/2303.01778.pdf) This work aims to democratize simulating large-scale FL experiments. BTW, our open-source FL framework [FedML](https://github.com/FedML-AI/FedML) has reached 2.6k stars at github.
 
 [December 2022] Invited to serve as a reviewer for KDD 2023 and ICML 2023.
 
@@ -40,14 +42,20 @@ News
 [May 2022] Invited to serve as a reviewer for NeurIPS 2022.
 
 
+[March 2022] Our paper "FedCV: A Federated Learning Framework for Diverse Computer Vision Tasks" is accepted to FL-AAAI workshop '22 as Oral Presentation. [paper](https://arxiv.org/pdf/2111.11066.pdf)
+
+
 [December 2021] Invited to serve as a reviewer for ICML 2022.
+
+[July 2021] Our paper "Data Resampling for Federated Learning with Non-IID Labels." is accepted to FTL-IJCAI workshop '21 [paper] [https://federated-learning.org/fl-ijcai-2021/FTL-IJCAI21_paper_3.pdf]
+
 
 [October 2020] Our survey paper "A Quantitative Survey of Communication Optimizations in Distributed Deep Learning" \[[code](https://github.com/HKBU-HPML/ddl-benchmarks), [paper](https://arxiv.org/abs/2005.13247)\] has been accepted by *IEEE Network Magazine*.
 
 
 Work & Research Experience 
 ======
-- 03/2023-05/2022: Visiting Student, National University of Singapore, advised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/)
+- 02/2023-05/2023: Visiting Researcher, National University of Singapore, advised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/)
 - 06/2022-10/2022: Research Intern, [FedML Inc](https://www.fedml.ai/), advised by [Dr. Chaoyang He](https://chaoyanghe.com/)
 - 10/2018-09/2020: Research Assistant, Hong Kong Baptist University, advised by [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen)
 
