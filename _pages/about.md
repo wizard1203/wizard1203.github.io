@@ -13,9 +13,9 @@ Hi! I'm currently a Computer Science PhD candidate in [Hong Kong Baptist Univers
 
 **Research Philosophy**
 
-Democratizing Machine learning needs super high efficiency, scalability, robustness and privacy. Achieving them needs to understand ML and systems first. Hope we can make a ML system to enable learning at anywhere and anytime.
+Democratizing Machine learning needs super high efficiency, scalability, robustness and privacy. Achieving them needs to understand ML and systems first. Hope we can make an ML system to enable learning at anywhere and anytime.
 
-**Current focuses**: Federated Learning, Distributed Deep Learning, Accelerate Training and Inference of DNNs
+**Current focus**: Federated Learning, Distributed Deep Learning, Accelerate Training and Inference of DNNs
 
 
 
