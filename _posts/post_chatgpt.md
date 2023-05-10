@@ -40,7 +40,7 @@ For each article, I suggest to provide its abstract version (in few sentences), 
 To address this challenge, it may be helpful to provide multiple versions of articles and other information resources. For example, an abstract version could provide a brief summary of the main points for readers who want a quick overview. A concise version could provide several paragraphs of information, tailored to the reader's level of expertise and background knowledge. A detailed version could provide more in-depth analysis, broken down into sections with references and survey data to support the arguments made. Additionally, providing context for each article could help readers better understand the significance of the information presented and how it relates to their own interests and needs. By providing multiple versions of each article, readers can more easily access the information that is most relevant and useful to them, without being overwhelmed by extraneous or redundant information.
 
 
-
+---
 
 
 
