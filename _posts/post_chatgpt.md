@@ -1,4 +1,12 @@
-# Infomation Abstracting and Elaboration in Post-ChatGPT Age
+---
+title: 'Infomation Abstracting and Elaboration in Post-ChatGPT Age'
+date: 2023-05-10
+permalink: /posts/2023/05/post_chatgpt/
+tags:
+  - cool posts
+---
+
+<!-- # Infomation Abstracting and Elaboration in Post-ChatGPT Age -->
 
 
 ## Abstract
