@@ -89,8 +89,9 @@ Professional Activities
 
 Awards and Prizes
 ======
-- 2022/23 Fall, Research Performance Award, HKBU CS Department. [Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)
+- 2022/23, Research Performance Award, HKBU CS Department. [Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)
 - 2022/23 Fall, Teaching Performance Award, HKBU CS Department. [Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)
+- 2021/22, Research Performance Award, HKBU CS Department. [Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)
 - 2021/22 Fall, Teaching Performance Award, HKBU CS Department. [Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)
 - 2020, Scholarship for Nominees of Hong Kong PhD Fellowship Scheme, HKBU CS Department. [Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)
 - 2018, Outstanding Graduate, HUST
