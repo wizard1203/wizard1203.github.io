@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm currently a Computer Science PhD candidate in [Hong Kong Baptist University](https://www.hkbu.edu.hk) under the supervision of [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen) in 2020, and co-supervised by [Prof. Bo Han](https://bhanml.github.io/). Before HKBU, I got my Bachelor degree of HUST.
+Hi! I'm currently a Computer Science PhD candidate in [Hong Kong Baptist University](https://www.hkbu.edu.hk) under the supervision of [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen) from 2020, and co-supervised by [Prof. Amelie Chi Zhou](https://www.comp.hkbu.edu.hk/~amelieczhou/) and [Prof. Bo Han](https://bhanml.github.io/). Before HKBU, I got my Bachelor degree of HUST.
 
 
-**Research Philosophy**
+**Research Interests**
 
 Democratizing Machine learning needs high efficiency, scalability, robustness and privacy. Achieving them needs to understand ML and systems first. Hope we can design an ML system to learn and generate knowledge at anywhere and anytime.
 
@@ -72,11 +72,13 @@ Teaching
 Professional Activities
 ======
 - Invited Program Committee Member (Reviewer):
-    - Machine Learning: KDD '23, ICML '22, NeurIPS '22 '23, ICLR '23, AAAI '23, AISTATS '23, UAI '22, IJCAI-ECAI '22
-    - Systems: HPCC '21, ICDCS '22, ICPADS '22
+    - Machine Learning: KDD'23, ICML'22,23, NeurIPS'22,23, ICLR'23,24, AAAI'23, AISTATS'23, UAI'22, IJCAI-ECAI'22, IWQOS'23
+    - Systems: HPCC'21, ICDCS'22,23, ICPADS'22
 
 - Invited Reviewer for Journals
     - IEEE Transactions on Neural Networks and Learning Systems
+    - Journal of Artificial Intelligence Research
+    - IEEE Transactions on Parallel and Distributed Systems
     - IEEE Journal on Selected Areas in Communications
     - IEEE Network Magzines
     - IEEE Transactions on Networking
@@ -85,11 +87,14 @@ Professional Activities
     - IEEE Computational Intelligence Magazine
 
 
-
-
-
-
-
+Awards and Prizes
+======
+- 2022/23 Fall, Research Performance Award, HKBU CS Department. [Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)
+- 2022/23 Fall, Teaching Performance Award, HKBU CS Department. [Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)
+- 2021/22 Fall, Teaching Performance Award, HKBU CS Department. [Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)
+- 2020, Scholarship for Nominees of Hong Kong PhD Fellowship Scheme, HKBU CS Department. [Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)
+- 2018, Outstanding Graduate, HUST
+- 2016, Scholarship of Academic Excellence, HUST
 
 
 
