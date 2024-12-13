@@ -61,6 +61,10 @@ I'm open for academic collaborations. If you are interested, please feel free to
 
 # 🔥 News
 
+
+
+
+* [2024.12] &nbsp;🎉🎉 Our paper "ParZC: Parametric Zero-Cost Proxies for Efficient NAS." is accepted at <strong><font color=red>AAAI 2025</font></strong>! Parametric Zero-Cost Proxies (ParZC) method improves zero-shot Neural Architecture Search by addressing unequal node importance and using novel techniques for uncertainty estimation and architecture ranking. ([paper]() and [codes]() will come soon...)
 * [2024.11] &nbsp;🎉🎉 I'm selected as the <strong><font color=red>Top Reviewer of NeurIPS 2024</font></strong> for both main and D&B tracks ([Link](https://nips.cc/Conferences/2024/ProgramCommittee#top-reviewers)).
 * [2024.10] &nbsp;🎉🎉 Our paper "Hot Pluggable Federated Learning." has been selected by the FL@FM-NeurIPS'24 workshop to receive the <strong><font color=red>Outstanding Student Paper Award</font></strong>!. Congratulations to all co-authors!
 * [2024.10] &nbsp;🎉🎉 Our paper "FSMoE: A Flexible and Scalable Training System for Sparse Mixture-of-Experts Models." is accepted In <strong><font color=red>ASPLOS 2025</font></strong>! In this paper, we design and implement a new training system modularizes various operators in the entire MoE model, providing more fine-grained computation and communication scheduling, and achieving better computation communication overlap through appropriate gradient segmentation.. ([paper]() and [codes]() will come soon...)
@@ -165,6 +169,8 @@ The \* represents the equal contribution, 📧 corresponding author, 💡 projec
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
  -->
+
+* P. Dong, L. Li, **Z. Tang**, X. Liu, Z. Wei, Q. Wang, X. Chu. ParZC: Parametric Zero-Cost Proxies for Efficient NAS. In AAAI 2025.
 
 * X. Pan, W. Lin, L. Zhang, S. Shi, **Z. Tang**, R. Wang, B. Li, X. Chu. FSMoE: A Flexible and Scalable Training System for Sparse Mixture-of-Experts Models. In ASPLOS 2025.
 
