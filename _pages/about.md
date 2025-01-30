@@ -63,7 +63,7 @@ I'm open for academic collaborations. If you are interested, please feel free to
 
 
 
-
+* [2025.01] &nbsp;🎉🎉 Our paper "ParZC: Parametric Zero-Cost Proxies for Efficient NAS." is selected at <strong><font color=red>AAAI 2025</font></strong> for <strong><font color=red>Oral Presentation</font></strong>!
 * [2024.12] &nbsp;🎉🎉 Our paper "ParZC: Parametric Zero-Cost Proxies for Efficient NAS." is accepted at <strong><font color=red>AAAI 2025</font></strong>! Parametric Zero-Cost Proxies (ParZC) method improves zero-shot Neural Architecture Search by addressing unequal node importance and using novel techniques for uncertainty estimation and architecture ranking. ([paper]() and [codes]() will come soon...)
 * [2024.11] &nbsp;🎉🎉 I'm selected as the <strong><font color=red>Top Reviewer of NeurIPS 2024</font></strong> for both main and D&B tracks ([Link](https://nips.cc/Conferences/2024/ProgramCommittee#top-reviewers)).
 * [2024.10] &nbsp;🎉🎉 Our paper "Hot Pluggable Federated Learning." has been selected by the FL@FM-NeurIPS'24 workshop to receive the <strong><font color=red>Outstanding Student Paper Award</font></strong>!. Congratulations to all co-authors!
