@@ -6,15 +6,14 @@ main:
   # - title: "News"
   #   url: "/#-news"
 
-  - title: "News"
+  - title: "Full News"
     url: "/news"
 
-  - title: "cv"
-    url: "/cv"
+  # - title: "Publications"
+  #   url: "/#-publications"
 
-
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Full Publications"
+    url: "/publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
