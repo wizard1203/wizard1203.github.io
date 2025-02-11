@@ -87,14 +87,12 @@ Conferences/2024/ProgramCommittee#top-reviewers)).
 by the FL@FM-NeurIPS'24 workshop to receive the <strong><font color=red>Outstanding 
 Student Paper Award</font></strong>!. Congratulations to all co-authors!
 * [2024.10] &nbsp;🎉🎉 Our paper "FSMoE: A Flexible and Scalable Training System for 
-Sparse Mixture-of-Experts Models." is accepted In <strong><font color=red>ASPLOS 2025</
-font></strong>! In this paper, we design and implement a new training system modularizes 
+Sparse Mixture-of-Experts Models." is accepted In <strong><font color=red>ASPLOS 2025</font></strong>! In this paper, we design and implement a new training system modularizes 
 various operators in the entire MoE model, providing more fine-grained computation and 
 communication scheduling, and achieving better computation communication overlap through 
 appropriate gradient segmentation.. ([paper]() and [codes]() will come soon...)
 * [2024.09] &nbsp;🎉🎉 Our paper "Hot Pluggable Federated Learning." is accepted at 
-Workshop Federated Foundation Models@NeurIPS 2024  as an <strong><font color=red>Oral</
-font></strong> paper!. In this paper, we propose a new method to regard model heads as 
+Workshop Federated Foundation Models@NeurIPS 2024  as an <strong><font color=red>Oral</font></strong> paper!. In this paper, we propose a new method to regard model heads as 
 pluggable modules appended after the model backbone. ([paper]() and [codes]() will come 
 soon...)
 * [2024.09] &nbsp;🎉🎉 Our paper "FuseFL: One-Shot Federated Learning through the Lens 
@@ -111,9 +109,6 @@ allocation in large language models. ([paper]() and [codes]() will come soon...)
 Evaluation of Edited Language Models." is accepted at <strong><font color=red>NeurIPS 
 2024</font></strong>. In this paper, we benchmark the methods of editing LLMs and see 
 how they influence LLM performance. ([paper]() and [codes]() will come soon...)
-
-
-
 
 ## 📖 Educations
 - *2020.09 - 2024.08*, Hong Kong Baptist University, PhD in Computer Science
