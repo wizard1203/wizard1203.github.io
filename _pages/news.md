@@ -11,8 +11,7 @@ author_profile: true
 
 
 * [2025.01] &nbsp;🎉🎉 Our paper "Hot-pluggable Federated Learning: Briding General and 
-Personalized FL via Dynamic Selection" is selected at <strong><font color=red>ICLR 2025</
-font></strong>. This paper proposes a selective federated learning approach to integate 
+Personalized FL via Dynamic Selection" is selected at <strong><font color=red>ICLR 2025</font></strong>. This paper proposes a selective federated learning approach to integate 
 personalized modules into general federated learning. ([Paper](https://openreview.net/
 forum?id=B8akWa62Da))
 * [2025.01] &nbsp;🎉🎉 Our paper "STBLLM: Breaking the 1-Bit Barrier with Structured 
@@ -81,8 +80,7 @@ Communication-Efficient Federated Learning." is accepted at <strong><font color=
 client model parameters demonstrates important information that can be utilized to 
 adjust averging weights. ([paper]())
 * [2024.05] &nbsp;🎉🎉 Our paper "Pruner-Zero: Evolving Symbolic Pruning Metric From 
-Scratch for Large Language Models." is accepted at <strong><font color=red>ICML 2024</
-font></strong>. This work finds new pruning metric to prune LLMs to achieve SOTA 
+Scratch for Large Language Models." is accepted at <strong><font color=red>ICML 2024</font></strong>. This work finds new pruning metric to prune LLMs to achieve SOTA 
 performance under the same sparsity ratio. ([paper](https://arxiv.org/abs/2406.02924))
 * [2024.03] &nbsp;🎉🎉 VMRNN is available. This work proposes the VMRNN cell, a new 
 recurrent unit that integrates the strengths of Vision Mamba blocks with LSTM. We 
@@ -121,8 +119,7 @@ color=red>IEEE TPDS</font></strong>. ([paper](https://ieeexplore.ieee.org/docume
 Local Intrinsic Dimension” is accepted at <strong><font color=red>AAAI 2023</font></
 strong>. ([paper](https://arxiv.org/abs/2211.12759)).
 * [2022.05] &nbsp;🎉🎉 Our paper "Virtual Homogeneity Learning: Defending against Data 
-Heterogeneity in Federated Learning" is accepted at <strong><font color=red>ICML 2022</
-font></strong>. ([paper](https://proceedings.mlr.press/v162/tang22d.html), [code]
+Heterogeneity in Federated Learning" is accepted at <strong><font color=red>ICML 2022</font></strong>. ([paper](https://proceedings.mlr.press/v162/tang22d.html), [code]
 (https://github.com/wizard1203/VHL)).
 * [2022.03] &nbsp;🎉🎉 Our paper "FedCV: A Federated Learning Framework for Diverse 
 Computer Vision Tasks" is accepted to <strong><font color=red>FL-AAAI workshop '22 as 

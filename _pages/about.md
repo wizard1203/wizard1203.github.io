@@ -51,8 +51,7 @@ I'm open for academic collaborations. If you are interested, please feel free to
 [See all news items](/news)
 
 * [2025.01] &nbsp;🎉🎉 Our paper "Hot-pluggable Federated Learning: Briding General and 
-Personalized FL via Dynamic Selection" is selected at <strong><font color=red>ICLR 2025</
-font></strong>. This paper proposes a selective federated learning approach to integate 
+Personalized FL via Dynamic Selection" is selected at <strong><font color=red>ICLR 2025</font></strong>. This paper proposes a selective federated learning approach to integate 
 personalized modules into general federated learning. ([Paper](https://openreview.net/
 forum?id=B8akWa62Da))
 * [2025.01] &nbsp;🎉🎉 Our paper "STBLLM: Breaking the 1-Bit Barrier with Structured 
