@@ -50,11 +50,68 @@ I'm open for academic collaborations. If you are interested, please feel free to
 # 🔥 News
 [See all news items](/news)
 
-* [2025.01] &nbsp;🎉🎉 Our paper "Hot-pluggable Federated Learning" is selected at <strong><font color=red>ICLR 2025</font></strong>.
-* [2025.01] &nbsp;🎉🎉 Our paper "STBLLM" is selected at <strong><font color=red>ICLR 2025</font></strong>.
-* [2025.01] &nbsp;🎉🎉 Our paper "The Lottery LLM Hypothesis" is selected as <strong><font color=red>ICLR Blogpost 2025</font></strong>.
-* [2024.12] &nbsp;🎉🎉 Our paper "ParZC" is accepted at <strong><font color=red>AAAI 2025</font></strong>!
-* [2024.11] &nbsp;🎉🎉 I'm selected as the <strong><font color=red>Top Reviewer of NeurIPS 2024</font></strong>.
+* [2025.01] &nbsp;🎉🎉 Our paper "Hot-pluggable Federated Learning: Briding General and 
+Personalized FL via Dynamic Selection" is selected at <strong><font color=red>ICLR 2025</
+font></strong>. This paper proposes a selective federated learning approach to integate 
+personalized modules into general federated learning. ([Paper](https://openreview.net/
+forum?id=B8akWa62Da))
+* [2025.01] &nbsp;🎉🎉 Our paper "STBLLM: Breaking the 1-Bit Barrier with Structured 
+Binary LLMs" is selected at <strong><font color=red>ICLR 2025</font></strong>. This 
+paper introduces STBLLM, a novel approach that breaks the 1-bit barrier in language 
+models by leveraging Structured Binary LLMs. ([Paper](https://openreview.net/forum?
+id=6XUSDvBFkV))
+* [2025.01] &nbsp;🎉🎉 Our paper "The Lottery LLM Hypothesis, Rethinking What Abilities 
+Should LLM Compression Preserve?" is selected as <strong><font color=red>ICLR Blogpost 
+2025</font></strong>. This blog proposes a lottery LLM hypothesis suggesting that for a 
+given LLM and task, there exists a smaller lottery LLM capable of producing the same 
+performance with the original LLM with the assistances of multi-step reasoning and 
+external tools. ([Paper](https://openreview.net/forum?id=Vq3noyDfJI))
+* [2025.01] &nbsp;🎉🎉 Our paper "Can LLM Simulations Truly Reflect Humanity? A Deep 
+Dive." is selected as <strong><font color=red>ICLR Blogpost 2025</font></strong>. This 
+blog rethinks LLM-based simulations by emphasizing both their limitations and the 
+necessities for advancing LLM simulations. It offer actionable insights and strategies 
+for enhancing the applicability of LLM simulations in human society in the future. 
+([Paper](https://openreview.net/forum?id=dMrhmQdrdW))
+* [2025.01] &nbsp;🎉🎉 Our paper "ParZC: Parametric Zero-Cost Proxies for Efficient NAS.
+" is selected at <strong><font color=red>AAAI 2025</font></strong> for <strong><font 
+color=red>Oral Presentation</font></strong>!
+* [2024.12] &nbsp;🎉🎉 Our paper "ParZC: Parametric Zero-Cost Proxies for Efficient NAS.
+" is accepted at <strong><font color=red>AAAI 2025</font></strong>! Parametric Zero-Cost 
+Proxies (ParZC) method improves zero-shot Neural Architecture Search by addressing 
+unequal node importance and using novel techniques for uncertainty estimation and 
+architecture ranking. ([paper]() and [codes]() will come soon...)
+* [2024.11] &nbsp;🎉🎉 I'm selected as the <strong><font color=red>Top Reviewer of 
+NeurIPS 2024</font></strong> for both main and D&B tracks ([Link](https://nips.cc/
+Conferences/2024/ProgramCommittee#top-reviewers)).
+* [2024.10] &nbsp;🎉🎉 Our paper "Hot Pluggable Federated Learning." has been selected 
+by the FL@FM-NeurIPS'24 workshop to receive the <strong><font color=red>Outstanding 
+Student Paper Award</font></strong>!. Congratulations to all co-authors!
+* [2024.10] &nbsp;🎉🎉 Our paper "FSMoE: A Flexible and Scalable Training System for 
+Sparse Mixture-of-Experts Models." is accepted In <strong><font color=red>ASPLOS 2025</
+font></strong>! In this paper, we design and implement a new training system modularizes 
+various operators in the entire MoE model, providing more fine-grained computation and 
+communication scheduling, and achieving better computation communication overlap through 
+appropriate gradient segmentation.. ([paper]() and [codes]() will come soon...)
+* [2024.09] &nbsp;🎉🎉 Our paper "Hot Pluggable Federated Learning." is accepted at 
+Workshop Federated Foundation Models@NeurIPS 2024  as an <strong><font color=red>Oral</
+font></strong> paper!. In this paper, we propose a new method to regard model heads as 
+pluggable modules appended after the model backbone. ([paper]() and [codes]() will come 
+soon...)
+* [2024.09] &nbsp;🎉🎉 Our paper "FuseFL: One-Shot Federated Learning through the Lens 
+of Causality with Progressive Model Fusion." is accepted at <strong><font 
+color=red>NeurIPS 2024 as a Spotlight</font></strong> paper ! This work identifies the 
+cause of low performance of one-shot FL, and proposes FuseFL to progressively train and 
+fuses DNN model following a bottom-up manner, reducing communication costs to an 
+extremely low degree. ([paper]() and [codes]() will come soon...)
+* [2024.09] &nbsp;🎉🎉 Our paper "Discovering Sparsity Allocation for Layer-wise Pruning 
+of Large Language Models." is accepted at <strong><font color=red>NeurIPS 2024</font></
+strong>. In this paper, we present a new method for optimizing layerwise sparsity 
+allocation in large language models. ([paper]() and [codes]() will come soon...)
+* [2024.09] &nbsp;🎉🎉 Our paper "Should We Really Edit Language Models? On the 
+Evaluation of Edited Language Models." is accepted at <strong><font color=red>NeurIPS 
+2024</font></strong>. In this paper, we benchmark the methods of editing LLMs and see 
+how they influence LLM performance. ([paper]() and [codes]() will come soon...)
+
 
 
 
@@ -71,70 +128,18 @@ I'm open for academic collaborations. If you are interested, please feel free to
 
 
 
-# 📕 Teaching
-* Teaching Assistant at HKBU
-    * 2023 Spring Semester, COMP7940 Cloud Computing
-    * 2022 Fall Semester, COMP7015 Artiﬁcial Intelligence 
-    * 2022 Spring Semester, COMP 7550 IT Project Management
-    * 2021 Fall Semester, COMP 7015, Artificial Intelligence
-    * 2021 Spring Semester, COMP 7930, Big Data Analytics
 
 
-# 👔 Professional Activities
+# 📝 Selected Publications 
+[See full publication list](/publications) and Google Scholar [link](https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en).
 
-* Invited Program Committee Member (Reviewer):
-    * Machine Learning: KDD'23, ICML'22,23,24, NeurIPS'22,23,24, ICLR'23,24,25, AAAI'23,25, AISTATS'23'25, UAI'22, IJCAI-ECAI'22
-    * Networking & Systems: HPCC'21, ICDCS'22,23, ICPADS'22, IWQOS'23,24
+The \* represents equal contribution, 📧 corresponding author.
 
-* Invited Reviewer for Journals
-    * Machine Learning: 
-        * IEEE Transactions on Pattern Analysis and Machine Intelligence
-        * Transactions on Machine Learning Research
-        * IEEE Transactions on Neural Networks and Learning Systems
-        * Journal of Artificial Intelligence Research
-    * Networking & Systems: 
-        * IEEE Transactions on Parallel and Distributed Systems
-        * IEEE Journal on Selected Areas in Communications
-        * IEEE Network Magzines
-        * IEEE Transactions on Networking
-        * IEEE Transactions on Network Science and Engineering
-        * IEEE Transactions on Intelligent Systems and Technology
-        * IEEE Computational Intelligence Magazine
-        * Journal of Parallel and Distributed Computing
-    * General:
-        * ACM Computing Surveys
+* K. Lai\*, **Z. Tang**\*, X. Pan, P. Dong, X. Liu, H. Chen, L. Shen, B. Li, X. Chu. Mediator: Memory-efficient LLM Merging with Less Parameter Conflicts and Uncertainty Based Routing. Arxiv 2025.
 
+* X. Liu\*, **Z. Tang**\*, P. Dong, Z. Li, B. Li, X. Hu, X. Chu. ChunkKV: Semantic-Preserving KV Cache Compression for Efficient Long-Context LLM Inference. Arxiv 2025.
 
-<!-- # 🎤 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
-
-# 🎖 Honors and Awards
-
-
-* 2023/24 Fall, Research Performance Award, HKBU CS Department ([Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)).
-* 2024, NeurIPS Top Reviewer ([Link](https://nips.cc/Conferences/2024/ProgramCommittee#top-reviewers)).
-* 2024, Outstanding Student Paper Award of FL@FM-NeurIPS'24 workshop.
-* 2024, NeurIPS Scholar Award. 
-* 2024, ICLR Scholar Award. 
-* 2023/24 Spring, Research Performance Award, HKBU CS Department ([Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)).
-* 2022/23, Research Performance Award, HKBU CS Department ([Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)).
-* 2022/23 Fall, Teaching Performance Award, HKBU CS Department ([Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)).
-* 2021/22, Research Performance Award, HKBU CS Department ([Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)).
-* 2021/22 Fall, Teaching Performance Award, HKBU CS Department ([Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)).
-* 2020, Scholarship for Nominees of Hong Kong PhD Fellowship Scheme, HKBU CS Department ([Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)).
-* 2018, Outstanding Graduate, HUST
-* 2016, Scholarship of Academic Excellence, HUST
-
-
-
-
-
-# 📝 Publications 
-[See full publication list](/publications)
-
-* The \* represents equal contribution, 📧 corresponding author.
+* X. Liu, **Z. Tang**, H. Chen, P. Dong, Z. Li, X. Zhou, B. Li, X. Hu, X. Chu. Can LLMs Maintain Fundamental Abilities under KV Cache Compression? Arxiv 2025.
 
 * L. Shen\*, **Z. Tang**\*, L. Wu, Y. Zhang, X. Chu, T. Qin, B. Han. Hot-pluggable Federated Learning: briding General and Personalized FL via Dynamic Selection. In ICLR 2025.
 
@@ -163,12 +168,10 @@ I'm open for academic collaborations. If you are interested, please feel free to
 
 * P. Dong, L. Li, **Z. Tang**, X. Liu, X. Pan, Q. Wang, X. Chu📧. Evolving Symbolic Pruning Metric From Scratch for Large Language Models. In ICML 2024.
 
-* Y. Tang, P. Dong, **Z. Tang**, X. Chu, J. Liang📧. VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting. In CVPR Workshop 2024.
-
 * **Z. Tang**, Y. Zhang, S. Shi, X. Tian, T. Liu, B. Han, X.📧 Chu. FedImpro: Measuring and Improving Client Update in Federated Learning. In ICLR 2024.
 
 
-* Y. Wang, Y. Chen, Z. Li, **Z. Tang**, R. Guo, X. Wang, Q. Wang, AC Zhou, X. Chu📧. Towards Efficient and Reliable LLM Serving: A Real-World Workload Study. arXiv preprint arXiv:2401.17644.
+* Y. Wang, Y. Chen, Z. Li, **Z. Tang**, R. Guo, X. Wang, Q. Wang, AC Zhou, X. Chu📧. BurstGPT: A Real-world Workload Dataset to Optimize LLM Serving Systems. arXiv preprint arXiv:2401.17644.
 
 
 * Y. Wang, S. Shi, X. He, **Z. Tang**, X. Pan, Y. Zheng, X. Wu, AC Zhou, B. He, X. Chu📧. Reliable and Efficient In-Memory Fault Tolerance of Large Language Model Pretraining. arXiv preprint arXiv:2310.12670.
@@ -179,43 +182,89 @@ I'm open for academic collaborations. If you are interested, please feel free to
 * **Z. Tang**, S. Shi, B. Li, X. Chu📧. GossipFL: A Decentralized Federated Learning Framework with Sparsified and Adaptive Communication. In IEEE Transactions on Parallel and Distributed Systems, 2022.
 
 
-* X. He, J. Yao, Y. Wang, **Z. Tang**, C. K. Chun, S. Simon, B. Han, and X. Chu📧. NAS-LID: Efficient Neural Architecture Search with Local Intrinsic Dimension. In AAAI 2023.
-
 * **Z. Tang**, Y. Zhang\*, S. Shi, X. He, B. Han, X. Chu📧. Virtual Homogeneity Learning: Defending against Data Heterogeneity in Federated Learning. In Proceedings of the 39th International Conference on Machine Learning, 2022.
 
 * C. He, A. D. Shah, **Zhenheng Tang**, D. Fan, A. N. Sivashunmugam, K. Bhogaraju, M. Shimpi, L. Shen, X. Chu, M. Soltanolkotabi and S. Avestimehr. FedCV: A Federated Learning Framework for Diverse Computer Vision Tasks. In FL-AAAI-22 workshop, 2022. [Best Paper Award]
-* Z. Liao, H. Yan, **Z. Tang**, X. Chu, T. Tao📧. Deep learning identifies leak in water pipeline system using transient frequency response. In Process Safety and Environmental Protection 2021.
 
 
 * **Z. Tang**, Zhikai Hu, Shaohuai Shi, Yiu-ming Cheung, Yilun Jin, Zhenghang Ren, Xiaowen Chu📧. Data Resampling for Federated Learning with Non-IID Labels. In FTL-IJCAI workshop, 2021.
 
-* S. Shi, **Z. Tang**, X. Chu, C. Liu, W. Wang, and B. Li. A quantitative surveyof communication optimizations in distributed deep learning. IEEE Network,35(3):230–237, 2021.
-
-* S. Shi, **Z. Tang**, Q. Wang, K. Zhao, and X. Chu. Layer-wise adaptive gradientsparsification for distributed deep learning with convergence guarantees. In ECAI 2020 * 24th European Conference on Artificial Intelligence, pages 1467–1474. IOS Press, 2020.
 
 * **Z. Tang**, S. Shi, and X. Chu📧. Communication-efficient decentralized learning withsparsification and adaptive peer selection. In ICDCS 2020.
 
-* Y. Wang, Q. Wang, S. Shi, X. He, **Z. Tang**, K. Zhao, X. Chu. Benchmarking the Performance and Energy Efficiency of AI Accelerators for AI Training. In CCGRID 2020.
 
 * **Z. Tang**, Y. Wang, Q. Wang, and X. Chu. The impact of gpu dvfs on the energy andperformance of deep learning: An empirical study. In Proceedings of the Tenth ACM International Conference on Future Energy Systems, e-Energy '19.
 
-* S. Shi, K. Zhao, Q. Wang, **Z. Tang**, and X. Chu.  A convergence analysis ofdistributed sgd with communication-efficient gradient sparsification. IJCAI-19.
-
-* S. Shi, Q. Wang, K. Zhao, **Z. Tang**, Y. Wang, X. Huang, and X. Chu. A distributedsynchronous sgd algorithm with global top-k sparsification for low bandwidthnetworks. In ICDCS 2019.
-
-
-* X. Zhou, **Z. Tang**, W. Xu, F. Meng, X. Chu, K. Xin, and G. Fu📧. Deep learningidentifies accurate burst locations in water distribution networks. Water Research,166:115058, 2019.
-
-* X. He, S. Wang, S. Shi, **Z. Tang**, Y. Wang, Z. Zhao, J. Dai, R. Ni, X. Zhang, X. Liu,Z. Wu, W. Yu, and X. Chu. Computer-aided clinical skin disease diagnosis usingcnn and object detection models. In 2019 IEEE International Conference on BigData (Big Data), pages 4839–4844, 2019.
-
-
-## Preprint
 
 * **Z. Tang**, X. Chu, R. Ran, S. Lee, S. Shi, Y. Zhang, Y. Wang, A. Liang, S. Avestimehr, C. He📧. FedML Parrot: A Scalable Federated Learning System via Heterogeneity-aware Scheduling on Sequential and Hierarchical Training. arXiv preprint arXiv:2303.01778.
 
 * **Z. Tang**, S. Shi, W. Wang, B. Li and X. Chu📧. Communication-efficient distributeddeep learning: A comprehensive survey. CoRR, abs/2003.06307, 2020.
 
 
+
+
+# 👔 Professional Activities
+
+* Invited Program Committee Member (Reviewer):
+    * Machine Learning: KDD'23, ICML'22,23,24, NeurIPS'22,23,24, ICLR'23,24,25, AAAI'23,25, AISTATS'23'25, UAI'22, IJCAI-ECAI'22
+    * Networking & Systems: HPCC'21, ICDCS'22,23, ICPADS'22, IWQOS'23,24
+
+* Invited Reviewer for Journals
+    * Machine Learning: 
+        * IEEE Transactions on Pattern Analysis and Machine Intelligence
+        * Transactions on Machine Learning Research
+        * IEEE Transactions on Neural Networks and Learning Systems
+        * Journal of Artificial Intelligence Research
+    * Networking & Systems: 
+        * IEEE Transactions on Parallel and Distributed Systems
+        * IEEE Journal on Selected Areas in Communications
+        * IEEE Network Magzines
+        * IEEE Transactions on Networking
+        * IEEE Transactions on Network Science and Engineering
+        * IEEE Transactions on Intelligent Systems and Technology
+        * IEEE Computational Intelligence Magazine
+        * Journal of Parallel and Distributed Computing
+    * General:
+        * ACM Computing Surveys
+
+
+
+
+# 🎖 Honors and Awards
+
+
+* 2023/24 Fall, Research Performance Award, HKBU CS Department ([Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)).
+* 2024, NeurIPS Top Reviewer ([Link](https://nips.cc/Conferences/2024/ProgramCommittee#top-reviewers)).
+* 2024, Outstanding Student Paper Award of FL@FM-NeurIPS'24 workshop.
+* 2024, NeurIPS Scholar Award. 
+* 2024, ICLR Scholar Award. 
+* 2023/24 Spring, Research Performance Award, HKBU CS Department ([Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)).
+* 2022/23, Research Performance Award, HKBU CS Department ([Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)).
+* 2022/23 Fall, Teaching Performance Award, HKBU CS Department ([Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)).
+* 2021/22, Research Performance Award, HKBU CS Department ([Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)).
+* 2021/22 Fall, Teaching Performance Award, HKBU CS Department ([Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)).
+* 2020, Scholarship for Nominees of Hong Kong PhD Fellowship Scheme, HKBU CS Department ([Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)).
+* 2018, Outstanding Graduate, HUST
+* 2016, Scholarship of Academic Excellence, HUST
+
+
+
+<!-- # 🎤 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+
+
+
+
+
+
+# 📕 Teaching
+* Teaching Assistant at HKBU
+    * 2023 Spring Semester, COMP7940 Cloud Computing
+    * 2022 Fall Semester, COMP7015 Artiﬁcial Intelligence 
+    * 2022 Spring Semester, COMP 7550 IT Project Management
+    * 2021 Fall Semester, COMP 7015, Artificial Intelligence
+    * 2021 Spring Semester, COMP 7930, Big Data Analytics
 
 
 
