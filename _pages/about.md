@@ -174,6 +174,15 @@ The \* represents the equal contribution, 📧 corresponding author, 💡 projec
 <div class='paper-box-text' markdown="1">
  -->
 
+* L. Shen\*, **Z. Tang**\*, L. Wu, Y. Zhang, X. Chu, T. Qin, B. Han. Hot-pluggable Federated Learning: briding General and Personalized FL via Dynamic Selection. In ICLR 2025.
+
+* **Z. Tang**, X. Liu, Q. Wang, P. Dong, B. He, X. Chu, B. Li. The Lottery LLM Hypothesis, Rethinking What Abilities Should LLM Compression Preserve? ICLR Blogpost Track 2025.
+
+* Q. Wang, **Z. Tang**, B. He. Can LLM Simulations Truly Reflect Humanity? A Deep Dive. ICLR Blogpost Track 2025.
+
+* P. Dong, L. Li, Y. Zhong, D. Du, R. Fan, Y. Chen, **Z. Tang**, Q. Wang, W. Xue, Y. Guo, X. Chu. STBLLM: Breaking the 1-Bit Barrier with Structured Binary LLMs. In ICLR 2025.
+
+
 * P. Dong, L. Li, **Z. Tang**, X. Liu, Z. Wei, Q. Wang, X. Chu. ParZC: Parametric Zero-Cost Proxies for Efficient NAS. In AAAI 2025.
 
 * X. Pan, W. Lin, L. Zhang, S. Shi, **Z. Tang**, R. Wang, B. Li, X. Chu. FSMoE: A Flexible and Scalable Training System for Sparse Mixture-of-Experts Models. In ASPLOS 2025.
@@ -208,7 +217,7 @@ The \* represents the equal contribution, 📧 corresponding author, 💡 projec
 * **Z. Tang**, S. Shi, B. Li, X. Chu📧. GossipFL: A Decentralized Federated Learning Framework with Sparsified and Adaptive Communication. In IEEE Transactions on Parallel and Distributed Systems, 2022.
 
 
-* X. He , J. Yao, Y. Wang, **Z. Tang**, C. K. Chun, S. Simon, B. Han, and X. Chu📧. NAS-LID: Efficient Neural Architecture Search with Local Intrinsic Dimension. In AAAI 2023.
+* X. He, J. Yao, Y. Wang, **Z. Tang**, C. K. Chun, S. Simon, B. Han, and X. Chu📧. NAS-LID: Efficient Neural Architecture Search with Local Intrinsic Dimension. In AAAI 2023.
 
 * **Z. Tang**, Y. Zhang\*, S. Shi, X. He, B. Han, X. Chu📧. Virtual Homogeneity Learning: Defending against Data Heterogeneity in Federated Learning. In Proceedings of the 39th International Conference on Machine Learning, 2022.
 
