@@ -200,24 +200,25 @@ The \* represents equal contribution, 📧 corresponding author.
 # 👔 Professional Activities
 
 * Invited Program Committee Member (Reviewer):
-    * Machine Learning: KDD'23, ICML'22,23,24, NeurIPS'22,23,24, ICLR'23,24,25, AAAI'23,25, AISTATS'23'25, UAI'22, IJCAI-ECAI'22
-    * Networking & Systems: HPCC'21, ICDCS'22,23, ICPADS'22, IWQOS'23,24
+    * Machine Learning: KDD'23,25, ICML'22,23,24,25, NeurIPS'22,23,24'25, ICLR'23,24,25, AAAI'23,25, AISTATS'23'25, UAI'22, IJCAI-ECAI'22
+    * Networking & Systems: HPCC'21, ICDCS'22,23,24,25, ICPADS'22, IWQOS'23,24
 
 * Invited Reviewer for Journals
     * Machine Learning: 
-        * IEEE Transactions on Pattern Analysis and Machine Intelligence
-        * Transactions on Machine Learning Research
-        * IEEE Transactions on Neural Networks and Learning Systems
-        * Journal of Artificial Intelligence Research
-    * Networking & Systems: 
-        * IEEE Transactions on Parallel and Distributed Systems
-        * IEEE Journal on Selected Areas in Communications
+        * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+        * Transactions on Machine Learning Research (TMLR)
+        * IEEE Transactions on Neural Networks and Learning Systems (TNNS)
+        * Journal of Artificial Intelligence Research (JAIR)
+    * Networking & Systems:
+        * ACM Transactions on Architecture and Code Optimization (TACO)
+        * IEEE Transactions on Parallel and Distributed Systems (TPDS)
+        * IEEE Journal on Selected Areas in Communications (JSAC)
         * IEEE Network Magzines
-        * IEEE Transactions on Networking
-        * IEEE Transactions on Network Science and Engineering
-        * IEEE Transactions on Intelligent Systems and Technology
+        * IEEE Transactions on Networking (ToN)
+        * IEEE Transactions on Network Science and Engineering (TNSE)
+        * IEEE Transactions on Intelligent Systems and Technology (TIST)
         * IEEE Computational Intelligence Magazine
-        * Journal of Parallel and Distributed Computing
+        * Journal of Parallel and Distributed Computing (JPDC)
     * General:
         * ACM Computing Surveys
 
