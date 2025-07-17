@@ -50,6 +50,10 @@ I'm open for academic collaborations. If you are interested, please feel free to
 # 🔥 News
 [See all news items](/news)
 
+
+* [2025.07] &nbsp;🎉🎉 One paper is accepted at <strong><font color=red>COLM 2025</font></strong>.
+* [2025.06] &nbsp;🎉🎉 One paper is accepted at <strong><font color=red>ACL 2025 Findings</font></strong>.
+* [2025.05] &nbsp;🎉🎉 One paper is accepted at <strong><font color=red>ICML 2025</font></strong> and four papers are accepted at <strong><font color=red>ICML Workshop 2025</font></strong>.
 * [2025.01] &nbsp;🎉🎉 Our paper "Hot-pluggable Federated Learning: Briding General and 
 Personalized FL via Dynamic Selection" is selected at <strong><font color=red>ICLR 2025</font></strong>. This paper proposes a selective federated learning approach to integate 
 personalized modules into general federated learning. ([Paper](https://openreview.net/
@@ -129,6 +133,21 @@ how they influence LLM performance. ([paper]() and [codes]() will come soon...)
 
 The \* represents equal contribution, 📧 corresponding author.
 
+* Q. Wang, Z. Lou, **Z. Tang**, N. Chen, X. Zhao, W. Zhang, D. Song, B. He. Assessing Judging Bias in Large Reasoning Models: An Empirical Study. In COLM 2025.
+
+* Y. Zhu\*, **Z. Tang**\*, X. Liu, A. Li, B. Li, X. Chu, B. Han. OracleKV: Oracle Guidance for Question-Independent KV Cache Eviction. ICML 2025 Workshop LCFM. (<strong>Oral</strong>)
+
+* Q. Wang\*, **Z. Tang**\*, Z. Jiang, N. Chen, T. Wang, B. He. AgentTaxo: Dissecting and Benchmarking Token Distribution of LLM Multi-Agent Systems. ICML 2025 Workshop MAS.
+
+* F. Wei\*, **Z. Tang**\*, R. Zeng, T. Liu, C. Zhang, X. Chu, B. Han. JailbreakLoRA: Your Downloaded LoRA from Sharing Platforms might be Unsafe. In ICML Workshop DIG-BUG 2025.
+
+* Z. Tang\*, **Z. Tang**\*, G. Pan, B. Liu, K. Lai, X. Chu, B. Li. Ghost in the Cloud: Your Geo-Distributed Large Language Models Training is Easily Manipulated. In ICML Workshop DIG-BUG 2025.
+
+* P. Dong\*, **Z. Tang**\*, X. Liu, L. Li, X. Chu, Bo Li. Can Compressed LLMs Truly Act? An Empirical Evaluation of Agentic Capabilities in LLM Compression. In ICML 2025.
+
+* Q. Wang, T. Wang, **Z. Tang**, Q. Li, N. Chen, J. Liang, B. He. MegaAgent: A Large-Scale Autonomous LLM-based Multi-Agent System Without Predefined SOPs. In ACL 2025 Findings.
+
+
 * K. Lai\*, **Z. Tang**\*, X. Pan, P. Dong, X. Liu, H. Chen, L. Shen, B. Li, X. Chu. Mediator: Memory-efficient LLM Merging with Less Parameter Conflicts and Uncertainty Based Routing. Arxiv 2025.
 
 * X. Liu\*, **Z. Tang**\*, P. Dong, Z. Li, B. Li, X. Hu, X. Chu. ChunkKV: Semantic-Preserving KV Cache Compression for Efficient Long-Context LLM Inference. Arxiv 2025.
@@ -148,15 +167,13 @@ The \* represents equal contribution, 📧 corresponding author.
 
 * X. Pan, W. Lin, L. Zhang, S. Shi, **Z. Tang**, R. Wang, B. Li, X. Chu. FSMoE: A Flexible and Scalable Training System for Sparse Mixture-of-Experts Models. In ASPLOS 2025.
 
-* **Z. Tang**, Y. Zhang, P. Dong, Y. Cheung, A. C. Zhou, B. Han, X. Chu. FuseFL: One-Shot Federated Learning through the Lens of Causality with Progressive Model Fusion." In NeurIPS 2024 (<strong>spotlight</strong>).
+* **Z. Tang**, Y. Zhang, P. Dong, Y. Cheung, A. C. Zhou, B. Han, X. Chu. FuseFL: One-Shot Federated Learning through the Lens of Causality with Progressive Model Fusion." In NeurIPS 2024 (<strong>SPOTLIGHT</strong>).
 
 * L. Shen\*, **Z. Tang**\*💡 , L. Wu, Y. Zhang, X. Chu, T. Qin, B. Han. "Hot Pluggable Federated Learning." In Workshop of Federated Foundation Models@NeurIPS 2024 (<strong>Oral</strong>, <strong>Outstanding Student Paper Award</strong>).
 
 * L. Li, P. Dong, **Z. Tang**, X. Liu, Q. Wang, W. Luo, W. Xue, Q. Liu, X. Chu, Y. Guo. Discovering Sparsity Allocation for Layer-wise Pruning of Large Language Models. In NeurIPS 2024.
 
 * Q. Li, X. Liu, **Z. Tang**, P. Dong, Z. Li, X. Pan, X. Chu. Should We Really Edit Language Models? On the Evaluation of Edited Language Models. In NeurIPS 2024.
-
-* P. Dong, L. Li, X. Liu, **Z. Tang**, X. Liu, Q. Wang, X. Chu. LPZero: Language Model Zero-cost Proxy Search from Zero. In EMNLP 2024 Findings.
 
 * Z. Tang, J. Huang, R. Yan, Y. Wang, **Z. Tang**💡📧, S. Shi, A. C. Zhou, X. Chu📧. Bandwidth-Aware and Overlap-Weighted Compression for Communication-Efficient Federated Learning. In ICPP 2024.
 
@@ -198,10 +215,12 @@ The \* represents equal contribution, 📧 corresponding author.
 
 
 # 👔 Professional Activities
+* Invited Area Chair:
+    * NeurIPS 2025
 
 * Invited Program Committee Member (Reviewer):
-    * Machine Learning: KDD'23,25, ICML'22,23,24,25, NeurIPS'22,23,24'25, ICLR'23,24,25, AAAI'23,25, AISTATS'23'25, UAI'22, IJCAI-ECAI'22
-    * Networking & Systems: HPCC'21, ICDCS'22,23,24,25, ICPADS'22, IWQOS'23,24
+    * Machine Learning: KDD'23, ICML'22,23,24,25, NeurIPS'22,23,24, ICLR'23,24,25,26, AAAI'23,25, AISTATS'23'25, UAI'22, IJCAI-ECAI'22, COLM'25, ACL'25, EMNLP'25.
+    * Networking & Systems: HPCC'21, ICDCS'22,23, ICPADS'22, IWQOS'23,24.
 
 * Invited Reviewer for Journals
     * Machine Learning: 

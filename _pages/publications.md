@@ -10,6 +10,21 @@ author_profile: true
 
 The \* represents equal contribution, 📧 corresponding author.
 
+* Q. Wang, Z. Lou, **Z. Tang**, N. Chen, X. Zhao, W. Zhang, D. Song, B. He. Assessing Judging Bias in Large Reasoning Models: An Empirical Study. In COLM 2025.
+
+* Y. Zhu\*, **Z. Tang**\*, X. Liu, A. Li, B. Li, X. Chu, B. Han. OracleKV: Oracle Guidance for Question-Independent KV Cache Eviction. ICML 2025 Workshop LCFM. (<strong>Oral</strong>)
+
+* Q. Wang\*, **Z. Tang**\*, Z. Jiang, N. Chen, T. Wang, B. He. AgentTaxo: Dissecting and Benchmarking Token Distribution of LLM Multi-Agent Systems. ICML 2025 Workshop MAS.
+
+* F. Wei\*, **Z. Tang**\*, R. Zeng, T. Liu, C. Zhang, X. Chu, B. Han. JailbreakLoRA: Your Downloaded LoRA from Sharing Platforms might be Unsafe. In ICML Workshop DIG-BUG 2025.
+
+* Z. Tang\*, **Z. Tang**\*, G. Pan, B. Liu, K. Lai, X. Chu, B. Li. Ghost in the Cloud: Your Geo-Distributed Large Language Models Training is Easily Manipulated. In ICML Workshop DIG-BUG 2025.
+
+* P. Dong\*, **Z. Tang**\*, X. Liu, L. Li, X. Chu, Bo Li. Can Compressed LLMs Truly Act? An Empirical Evaluation of Agentic Capabilities in LLM Compression. In ICML 2025.
+
+* Q. Wang, T. Wang, **Z. Tang**, Q. Li, N. Chen, J. Liang, B. He. MegaAgent: A Large-Scale Autonomous LLM-based Multi-Agent System Without Predefined SOPs. In ACL 2025 Findings.
+
+
 * K. Lai\*, **Z. Tang**\*, X. Pan, P. Dong, X. Liu, H. Chen, L. Shen, B. Li, X. Chu. Mediator: Memory-efficient LLM Merging with Less Parameter Conflicts and Uncertainty Based Routing. Arxiv 2025.
 
 * X. Liu\*, **Z. Tang**\*, P. Dong, Z. Li, B. Li, X. Hu, X. Chu. ChunkKV: Semantic-Preserving KV Cache Compression for Efficient Long-Context LLM Inference. Arxiv 2025.
