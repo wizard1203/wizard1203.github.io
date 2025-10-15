@@ -17,14 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a Post-doctoral Researcher at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) under supervision of [Prof. Bo Li](https://www.cse.ust.hk/~bli/) and [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen). 
+<!-- I'm a Post-doctoral Researcher at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) under supervision of [Prof. Bo Li](https://www.cse.ust.hk/~bli/) and [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen). 
 Previously, I obtained my PhD degree of Computer Science from [Hong Kong Baptist University](https://www.hkbu.edu.hk) under the supervision of [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen) and [Prof. Amelie Chi Zhou](https://www.comp.hkbu.edu.hk/~amelieczhou/), and co-supervised by [Prof. Bo Han](https://bhanml.github.io/). Before that, I got my Bachelor degree from [HUST](https://www.hust.edu.cn/).
 
-<!-- Hi! This year, I'm expected to graduate as a Computer Science PhD in [Hong Kong Baptist University](https://www.hkbu.edu.hk) under the supervision of [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen) and [Prof. Amelie Chi Zhou](https://www.comp.hkbu.edu.hk/~amelieczhou/), and co-supervised by [Prof. Bo Han](https://bhanml.github.io/). After PhD journey, I'm going to work as a Postdoctoral Fellow in HKUST under supervision of [Prof. Bo Li](https://www.cse.ust.hk/~bli/) and [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen). Before HKBU, I got my Bachelor degree of HUST. -->
-
-
 **Research Interests**
-I am interested in undersanding how deep learning models are optimized and how they learn knowledge and do reasoning. In next at least one year, I will delve into studying LLM reasoning mechanisms, agent workflow, fast finetuning and inference, and some practical LLMs' applications in CS or other areas in which knowledge can be conveniently represented digitally.
+I am interested in undersanding how deep learning models are optimized and how they learn knowledge and do reasoning. In next at least one year, I will delve into studying LLM reasoning mechanisms, agent workflow, fast finetuning and inference, and some practical LLMs' applications in CS or other areas in which knowledge can be conveniently represented digitally. -->
+
+
+**Short Biography.** I’m currently a Postdoc researcher [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) under supervision of [Prof. Bo Li](https://www.cse.ust.hk/~bli/) and [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen). Previously, I obtained my PhD degree of Computer Science from [Hong Kong Baptist University](https://www.hkbu.edu.hk) under the supervision of [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen) and [Prof. Amelie Chi Zhou](https://www.comp.hkbu.edu.hk/~amelieczhou/), and co-supervised by [Prof. Bo Han](https://bhanml.github.io/). My Ph.D. thesis is about distributed machine learning and federated learning, mainly to improve training efficiency and address data heterogeneity problem. My previous experience mainly lies in machine learning system (including data parallel, pipeline parallel, parameter server, MPI communication) and how data influences ML training dynamics. I received a B.E. degree in communication engineering from Huazhong University of Science and Technology in 2018.
+
+
+**Current research interests.** My current research mainly focuses on efficient LLM/VLM training and inference, LLM/VLM agents, and deploying LLM/VLM in real-world applications. Specifically, I’m studying 
+- (1) New data selection/synthesis methods to improve training efficiency; 
+- (2) New model structure/training paradigm to improve data-exploitation efficiency; 
+- (3) New LLM agents empowered by external tools and deployed in real-world applications; 
+- (4) Enhance LLM agents by efficient training. 
+
 
 <!-- workflow -->
 
@@ -50,7 +58,7 @@ I'm open for academic collaborations. If you are interested, please feel free to
 # 🔥 News
 [See all news items](/news)
 
-
+* [2025.09] &nbsp;🎉🎉 ChunkKV is accepted at <strong><font color=red>NeurIPS 2025</font></strong>.
 * [2025.07] &nbsp;🎉🎉 One paper is accepted at <strong><font color=red>COLM 2025</font></strong>.
 * [2025.06] &nbsp;🎉🎉 One paper is accepted at <strong><font color=red>ACL 2025 Findings</font></strong>.
 * [2025.05] &nbsp;🎉🎉 One paper is accepted at <strong><font color=red>ICML 2025</font></strong> and four papers are accepted at <strong><font color=red>ICML Workshop 2025</font></strong>.
@@ -133,6 +141,8 @@ how they influence LLM performance. ([paper]() and [codes]() will come soon...)
 
 The \* represents equal contribution, 📧 corresponding author.
 
+* X. Liu\*, **Z. Tang**\*, P. Dong, Z. Li, B. Li, X. Hu, X. Chu. ChunkKV: Semantic-Preserving KV Cache Compression for Efficient Long-Context LLM Inference. In NeurIPS 2025.
+
 * Q. Wang, Z. Lou, **Z. Tang**, N. Chen, X. Zhao, W. Zhang, D. Song, B. He. Assessing Judging Bias in Large Reasoning Models: An Empirical Study. In COLM 2025.
 
 * Y. Zhu\*, **Z. Tang**\*, X. Liu, A. Li, B. Li, X. Chu, B. Han. OracleKV: Oracle Guidance for Question-Independent KV Cache Eviction. ICML 2025 Workshop LCFM. (<strong>Oral</strong>)
@@ -149,8 +159,6 @@ The \* represents equal contribution, 📧 corresponding author.
 
 
 * K. Lai\*, **Z. Tang**\*, X. Pan, P. Dong, X. Liu, H. Chen, L. Shen, B. Li, X. Chu. Mediator: Memory-efficient LLM Merging with Less Parameter Conflicts and Uncertainty Based Routing. Arxiv 2025.
-
-* X. Liu\*, **Z. Tang**\*, P. Dong, Z. Li, B. Li, X. Hu, X. Chu. ChunkKV: Semantic-Preserving KV Cache Compression for Efficient Long-Context LLM Inference. Arxiv 2025.
 
 * X. Liu, **Z. Tang**, H. Chen, P. Dong, Z. Li, X. Zhou, B. Li, X. Hu, X. Chu. Can LLMs Maintain Fundamental Abilities under KV Cache Compression? Arxiv 2025.
 
@@ -217,6 +225,7 @@ The \* represents equal contribution, 📧 corresponding author.
 # 👔 Professional Activities
 * Invited Area Chair:
     * NeurIPS 2025
+    * ACL ARR 2025 October.
 
 * Invited Program Committee Member (Reviewer):
     * Machine Learning: KDD'23, ICML'22,23,24,25, NeurIPS'22,23,24, ICLR'23,24,25,26, AAAI'23,25, AISTATS'23'25, UAI'22, IJCAI-ECAI'22, COLM'25, ACL'25, EMNLP'25.
