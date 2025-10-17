@@ -26,12 +26,11 @@ I am interested in undersanding how deep learning models are optimized and how t
 
 **Short Biography.** I’m currently a Postdoc researcher [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) under supervision of [Prof. Bo Li](https://www.cse.ust.hk/~bli/) and [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen). Previously, I obtained my PhD degree of Computer Science from [Hong Kong Baptist University](https://www.hkbu.edu.hk) under the supervision of [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen) and [Prof. Amelie Chi Zhou](https://www.comp.hkbu.edu.hk/~amelieczhou/), and co-supervised by [Prof. Bo Han](https://bhanml.github.io/). My Ph.D. thesis is about distributed machine learning and federated learning, mainly to improve training efficiency and address data heterogeneity problem. My previous experience mainly lies in machine learning system and how data influences ML training dynamics. I received a B.E. degree in communication engineering from Huazhong University of Science and Technology in 2018.
 
-
-**Current research interests.** My current research mainly focuses on efficient LLM/VLM training and inference, LLM/VLM agents, and deploying LLM/VLM in real-world applications. Specifically, I’m studying 
-- (1) New data selection/synthesis methods to improve training efficiency; 
-- (2) New model structure/training paradigm to improve data-exploitation efficiency; 
-- (3) New LLM agents empowered by external tools and deployed in real-world applications; 
-- (4) Enhance LLM agents by efficient training. 
+**Current research interests.** My current research mainly focuses on Efficient LLM/VLM agents, deploying LLM/VLM in real-world applications, and efficient LLM/VLM training and inference. Specifically, I’m studying 
+- (1) LLM agents with external tools/memory/environment and deployed in real-world applications;
+- (2) Efficient agentic LLMs;
+- (3) Data selection/synthesis methods to improve training efficiency; 
+- (4) Model structure/training paradigm to improve data-exploitation efficiency; 
 
 
 <!-- workflow -->
