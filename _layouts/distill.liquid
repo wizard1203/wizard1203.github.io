@@ -122,6 +122,10 @@
       </d-article>
     </div>
 
+    {% unless page.clustrmaps_in_content %}
+      {% include clustrmaps.liquid %}
+    {% endunless %}
+
     <!-- Footer -->
     {% include footer.liquid %}
 

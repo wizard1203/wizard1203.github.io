@@ -4,6 +4,7 @@ permalink: /blog/
 title: blog
 nav: true
 nav_order: 1
+clustrmaps_in_content: true
 pagination:
   enabled: true
   collection: posts
@@ -194,3 +195,5 @@ pagination:
 {% endif %}
 
 </div>
+
+{% include clustrmaps.liquid %}
