@@ -51,11 +51,6 @@ See [all news](/news/) for more details.
 - **2026.04**: We have some papers studying how data synthesis/augmentation influences LLM finetuning/safety, accepted on ICML 2026 workshop.
 - **2025.11**: GitTaskBench accepted at AAAI 2025 (Oral). This paper proposes a new benchmark for coding agents.
 - **2025.09**: ChunkKV accepted at NeurIPS 2025. This paper compresses the LLM KV cache with semantic preserving.
-<!-- - **2025.07**: One paper accepted at COLM 2025
-- **2025.06**: One paper accepted at ACL 2025 Findings
-- **2025.05**: One paper accepted at ICML 2025; four papers accepted at ICML Workshops -->
-<!-- - **2025.01**: Two papers accepted at ICLR 2025; two ICLR Blogposts selected -->
-<!-- - **2024.11**: Top Reviewer, NeurIPS 2024 (Main & D&B Tracks) -->
 - **2024.10**: Outstanding Student Paper Award, FL@FM Workshop @ NeurIPS 2024
 - **2024.09**: FuseFL accepted at NeurIPS 2024 (Spotlight); Started as Postdoc at HKUST
 
