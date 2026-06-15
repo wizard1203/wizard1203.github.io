@@ -14,10 +14,22 @@ The $\star$ represents equal contribution, 📧 corresponding author.
 
 ## 2026
 
-- Q. Li, J. Wu, X. Liu, Y. Wang, Z. Li, Y. Chen, S. Shi, **Z. Tang**📧, X. Chu📧. Reasoning Language Model Inference Serving Unveiled: An Empirical Study. In <strong><font color=red>ICLR 2026</font></strong>.
-- Z. Tang$\star$, **Z. Tang**$\star$📧, G. Pan, B. Liu, K. Lai, X. Chu📧, B. Li📧. Ghost in the Cloud: Your Geo-Distributed Large Language Models Training is Easily Manipulated. In <strong><font color=red>ICLR 2026</font></strong>.
+- S. Hu, Z. Zhang, Y. Wei, X. Han, **Z. Tang**, H. Wang, R. Chen. CloneMem: Benchmarking Long-Term Memory for AI Clones. In <strong><font color=red>ACL 2026</font></strong>.
+- **Z. Tang**, Q. Pan, J. Shen, X. Liu, Q. Wang, B. Li, X. Chu. Probing the Plasticity and Correlation of LLM Value Systems: LLM Value Rankings are Not Stable. In <strong><font color=red>ACL 2026 Findings</font></strong>.
+- X. Liu, **Z. Tang**, H. Chen, P. Dong, Z. Li, X. Zhou, B. Li, X. Hu, X. Chu. Semantic Integrity Matters: Benchmarking and Preserving High-Density Reasoning in KV Cache Compression. In <strong><font color=red>ICML 2026</font></strong>.
+- X. Su, P. Dong, **Z. Tang**📧, S. Tang, Y. Zhai, K. Lin, L. Chen, Y. Gai, Y. Luo, Q. Wang, X. Chu. VCG-Bench: Towards A Unified Visual-Centric Benchmark for Structured Generation and Editing. In <strong><font color=red>ICML 2026</font></strong>.
+- **Z. Tang**$\star$, J. Huang$\star$, Z. Tang$\star$, X. Kang, Y. Wang, P. Dong, S. Shi, X. Chu, B. Li. Identifying and Mitigating Errors in Gradient Aggregation of Distributed Data Parallel Training. In <strong><font color=red>ICML 2026</font></strong>.
+- **Z. Tang**$\star$, F. Wei$\star$, P. Dong, X. Liu, Q. Wang, X. Chu, B. Li. Parameters as Agentic Memory: Internalizing Long-Horizon Memories for Efficient LLM Agents. <strong>ICML 2026 Workshop on Agents in the Wild: Safety, Security, and Beyond</strong>.
+- L. Li, **Z. Tang**, P. Dong, Q. Wang. GreenMoE: Exploiting Dynamic Load Imbalance for Energy-Efficient Long-Context MoE Training. <strong>ICML 2026 Workshop on AdaptFM: Resource-Adaptive Foundation Model Inference</strong>.
+- Z. Tang$\star$, **Z. Tang**$\star$, Q. Wang, G. Pan, Y. Yang, W. He, S. Shi, X. Chu, B. Li. BiasTrojan: LLM Judgers Are Easily Distorted by Few Hundreds of Contrastive Biased Training Data. <strong>ICML 2026 Workshop on Agents in the Wild: Safety, Security, and Beyond</strong>.
+- Z. Tang$\star$, **Z. Tang**$\star$, Y. Hou, P. Dong, X. Liu, S. Shi, X. Chu, B. Li. Enhancing Knowledge Injection with Surrounding Backgrounds in Continual Training LLMs. <strong>ICML 2026 Workshop on Foundations of Deep Generative Models: Understanding ...</strong>.
+- Z. Tang, Z. Zhang, Q. Wang, **Z. Tang**📧, X. Chu, B. Li. Is Your LLM-as-a-Recommender Agent Trustable? LLMs' Recommendation is Easily Hacked by Biases (Preferences). <strong>ICML 2026 Workshop on Agents in the Wild: Safety, Security, and Beyond</strong>.
+- Z. Ni$\star$, H. Wang$\star$, S. Zhang$\star$, S. Lu$\star$, Z. He$\star$, WangYou, **Z. Tang**, S. Hu, B. Li, C. Hu, B. Jiao, D. Jiang, Y. Du, P. Lyu. GitTaskBench: A Benchmark for Code Agents Solving Real-World Tasks Through Code Repository Leveraging. In <strong><font color=red>AAAI 2026</font></strong>.
+- **Z. Tang**$\star$, Z. Tang$\star$, J. Huang, X. Pan, R. Yan, Y. Wang, A. C. Zhou, S. Shi, X. Chu📧, B. Li. DreamDDP: Accelerating Low-Bandwidth Geo-Distributed LLM Training with Layer-wise Partial Synchronization. In <strong><font color=red>MLSys 2026</font></strong>.
+- Z. Tang$\star$, **Z. Tang**$\star$📧, G. Pan, B. Liu, K. Lai, X. Chu📧, B. Li. Ghost in the Cloud: Your Geo-Distributed Large Language Models Training is Easily Manipulated. In <strong><font color=red>ICLR 2026</font></strong>.
 - F. Wei$\star$, **Z. Tang**$\star$, R. Zeng, T. Liu, C. Zhang, X. Chu, B. Han📧. JailbreakLoRA: Your Downloaded LoRA from Sharing Platforms might be Unsafe. In <strong><font color=red>ICLR 2026</font></strong>.
-- **Z. Tang**$\star$, Z. Tang$\star$, J. Huang, X. Pan, R. Yan, Y. Wang, A. C. Zhou, S. Shi📧, X. Chu📧, B. Li📧. DreamDDP: Accelerating Data Parallel Distributed LLM Training with Layer-wise Scheduled Partial Synchronization. In <strong><font color=red>MLSys 2026</font></strong>.
+- Q. Li, J. Wu, X. Liu, Y. Wang, Z. Li, Y. Chen, S. Shi, **Z. Tang**📧, X. Chu📧. Reasoning Language Model Inference Serving Unveiled: An Empirical Study. In <strong><font color=red>ICLR 2026</font></strong>.
+- X. He, S. Zhang, Y. Wang, H. Yin, Z. Zeng, S. Shi, **Z. Tang**, X. Chu📧, et al. ExpertFlow: Optimized Expert Activation and Token Allocation for Efficient Mixture-of-Experts Inference. In <strong><font color=red>DAC 2026</font></strong>.
 
 ## 2025
 

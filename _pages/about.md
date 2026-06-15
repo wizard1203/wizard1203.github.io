@@ -61,6 +61,12 @@ See [full publication list](/publications/).
 
 The $\star$ represents equal contribution, 📧 corresponding author.
 
+- X. Liu, **Z. Tang**, H. Chen, P. Dong, Z. Li, X. Zhou, B. Li, X. Hu, X. Chu. Semantic Integrity Matters: Benchmarking and Preserving High-Density Reasoning in KV Cache Compression. <strong><font color=red>ICML 2026</font></strong>.
+- **Z. Tang**$\star$, J. Huang$\star$, Z. Tang$\star$, X. Kang, Y. Wang, P. Dong, S. Shi, X. Chu, B. Li. Identifying and Mitigating Errors in Gradient Aggregation of Distributed Data Parallel Training. <strong><font color=red>ICML 2026</font></strong>.
+- **Z. Tang**$\star$, F. Wei$\star$, P. Dong, X. Liu, Q. Wang, X. Chu, B. Li. Parameters as Agentic Memory: Internalizing Long-Horizon Memories for Efficient LLM Agents. <strong>ICML 2026 Workshop on Agents in the Wild: Safety, Security, and Beyond</strong>.
+- Z. Tang$\star$, **Z. Tang**$\star$, Q. Wang, G. Pan, Y. Yang, W. He, S. Shi, X. Chu, B. Li. BiasTrojan: LLM Judgers Are Easily Distorted by Few Hundreds of Contrastive Biased Training Data. <strong>ICML 2026 Workshop on Agents in the Wild: Safety, Security, and Beyond</strong>.
+- Z. Tang$\star$, **Z. Tang**$\star$, Y. Hou, P. Dong, X. Liu, S. Shi, X. Chu, B. Li. Enhancing Knowledge Injection with Surrounding Backgrounds in Continual Training LLMs. <strong>ICML 2026 Workshop on Foundations of Deep Generative Models: Understanding ...</strong>.
+- Z. Tang, Z. Zhang, Q. Wang, **Z. Tang**, X. Chu, B. Li. Is Your LLM-as-a-Recommender Agent Trustable? LLMs' Recommendation is Easily Hacked by Biases (Preferences). <strong>ICML 2026 Workshop on Agents in the Wild: Safety, Security, and Beyond</strong>.
 - **Z. Tang$\star$**, Z. Tang$\star$, J. Huang, X. Pan, R. Yan, Y. Wang, A. C. Zhou, S. Shi📧, X. Chu📧, B. Li📧. DreamDDP: Accelerating Data Parallel Distributed LLM Training with Layer-wise Scheduled Partial Synchronization. <strong><font color=red>MLSys 2026</font></strong>.
 - Z. Tang$\star$, **Z. Tang**$\star$📧, G. Pan, B. Liu, K. Lai, X. Chu📧, B. Li📧. Ghost in the Cloud: Your Geo-Distributed Large Language Models Training is Easily Manipulated. <strong><font color=red>ICLR 2026</font></strong>.
 - F. Wei$\star$, **Z. Tang**$\star$, R. Zeng, T. Liu, C. Zhang, X. Chu, B. Han📧. JailbreakLoRA: Your Downloaded LoRA from Sharing Platforms might be Unsafe. <strong><font color=red>ICLR 2026</font></strong>.
